@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Keyi Huang — Accounting, Financial Analysis, Data Verification" width="100%" />
+  <img src="./assets/banner.svg?v=3" alt="Keyi Huang — Accounting, Financial Analysis, Data Verification" width="100%" />
   <br/><br/>
 
   ![Huazhong University of Science and Technology](https://img.shields.io/badge/Huazhong%20University%20of%20Science%20%26%20Technology-0B1F33?style=flat-square)
