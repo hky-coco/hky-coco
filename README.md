@@ -4,12 +4,16 @@
 
   ![Huazhong University of Science and Technology](https://img.shields.io/badge/Huazhong%20University%20of%20Science%20%26%20Technology-0B1F33?style=flat-square)
   ![Undergraduate in Accounting](https://img.shields.io/badge/Undergraduate%20%C2%B7%20Accounting-12324F?style=flat-square)
+  ![Class of 2028](https://img.shields.io/badge/Class%20of%202028-8A6D3B?style=flat-square)
+  ![Open to Internship](https://img.shields.io/badge/Open%20to%20Internship%20%C2%B7%20Jan%E2%80%93Mar%202027-1D8A5F?style=flat-square)
   ![Wuhan, China](https://img.shields.io/badge/Wuhan%2C%20China-5B6B7B?style=flat-square)
 </div>
 
 ## About
 
-Accounting undergraduate at **Huazhong University of Science and Technology** (2024 – present). I care about numbers that reconcile: clean ledger entries, traceable records, and financial statements you can defend line by line.
+Accounting undergraduate at **Huazhong University of Science and Technology**, class of 2028 (2024 – 2028 expected). I care about numbers that reconcile: clean ledger entries, traceable records, and financial statements you can defend line by line.
+
+> **Open to internship opportunities** — January 6 to the end of March 2027.
 
 - End-to-end bookkeeping practice: accounting vouchers, subsidiary and general ledgers, trial balance
 - Excel for reconciliation, discrepancy screening, and statement-to-ledger consistency
