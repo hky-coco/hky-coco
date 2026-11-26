@@ -3,7 +3,7 @@
   <br/><br/>
 
   ![Huazhong University of Science and Technology](https://img.shields.io/badge/Huazhong%20University%20of%20Science%20%26%20Technology-0B1F33?style=flat-square)
-  ![B.Sc. in Accounting](https://img.shields.io/badge/B.Sc.%20in%20Accounting-12324F?style=flat-square)
+  ![Undergraduate in Accounting](https://img.shields.io/badge/Undergraduate%20%C2%B7%20Accounting-12324F?style=flat-square)
   ![Wuhan, China](https://img.shields.io/badge/Wuhan%2C%20China-5B6B7B?style=flat-square)
 </div>
 
